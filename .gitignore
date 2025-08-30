@@ -134,6 +134,17 @@ dist
 !.yarn/sdks
 !.yarn/versions
 
-# Vite logs files
+# Vite
+.vite/
+.cache/
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# JetBrains IDEs
+.idea/
+
+# macOS
+.DS_Store
+
+# Tailwind generated files (if any custom output)
+*.css.map
