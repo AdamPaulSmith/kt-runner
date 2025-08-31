@@ -1,17 +1,19 @@
-import './App.css'
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import './App.css';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import Home from './pages/Home';
+import Create from './pages/Create';
 
 function App() {
-
   return (
+    <div className="app-container">
       <BrowserRouter>
-          <Routes>
-              <Route path="/" element={<div>Home (Saved Kill Teams)</div>} />
-              <Route path="/create" element={<div>Create Kill Team</div>} />
-              <Route path="/game" element={<div>Game Mode</div>} />
-          </Routes>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/create" element={<Create />} />
+        </Routes>
       </BrowserRouter>
-  )
+    </div>
+  );
 }
 
-export default App
+export default App;

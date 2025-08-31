@@ -1,0 +1,73 @@
+{
+  "id": 1,
+  "name": "Angels of Death",
+  "slug": "angels-of-death",
+  "operatives": [
+    {
+      "name": "Captain",
+      "slug": "captain",
+      "images" : [
+        "kill-teams/angels-of-death/images/angels-of-death---datacards-page-1-space-marine-captain.png"
+      ]
+    },
+    {
+      "name": "Assault Intercessor Sergeant",
+      "slug": "assault-intercessor-sergeant",
+      "images" : [
+        "kill-teams/angels-of-death/images/angels-of-death---datacards-page-2-assault-intercessor-sergeant.png",
+        "kill-teams/angels-of-death/images/angels-of-death---datacards-page-3-assault-intercessor-sergeant.png"
+      ]
+    },
+    {
+      "name": "Intercessor Sergeant",
+      "slug": "intercessor-sergeant",
+      "images" : [
+        "kill-teams/angels-of-death/images/angels-of-death---datacards-page-2-intercessor-sergeant.png",
+        "kill-teams/angels-of-death/images/angels-of-death---datacards-page-3-intercessor-sergeant.png"
+      ]
+    },
+    {
+      "name": "Intercessor Grenadier",
+      "slug": "intercessor-grenadier",
+      "images" : [
+        "kill-teams/angels-of-death/images/angels-of-death---datacards-page-6-assault-intercessor-grenadier.png"
+      ]
+    },
+    {
+      "name": "Assault Intercessor Warrior",
+      "slug": "assault-intercessor-warrior",
+      "images" : [
+        "kill-teams/angels-of-death/images/angels-of-death---datacards-page-7-assault-intercessor-warrior.png"
+      ]
+    },
+    {
+      "name": "Heavy Intercessor Gunner",
+      "slug": "heavy-intercessor-gunner",
+      "images" : [
+        "kill-teams/angels-of-death/images/angels-of-death---datacards-page-8-heavy-intercessor-gunner.png"
+      ]
+    },
+    {
+      "name": "Intercessor Gunner",
+      "slug": "intercessor-gunner",
+      "images" : [
+        "kill-teams/angels-of-death/images/angels-of-death---datacards-page-9-intercessor-gunner.png"
+      ]
+    },
+    {
+      "name": "Intercessor Warrior",
+      "slug": "intercessor-warrior",
+      "images" : [
+        "kill-teams/angels-of-death/images/angels-of-death---datacards-page-10-intercessor-warrior.png"
+      ]
+    },
+    {
+      "name": "Eliminator Sniper",
+      "slug": "eliminator-sniper",
+      "images" : [
+        "kill-teams/angels-of-death/images/angels-of-death---datacards-page-11-eliminator-sniper.png",
+        "kill-teams/angels-of-death/images/angels-of-death---datacards-page-12-eliminator-sniper.png"
+      ]
+    }
+  ]
+}
